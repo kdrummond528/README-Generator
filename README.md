@@ -1,41 +1,32 @@
-# README Generator
-
+# Professional README Generator
 
 ## Description
-A command line application to create a README.md file.
+This challenge called to create a command line application to generate a README.md file from a user's input by using the Inquirer package. 
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [Tests](#tests)
-5. [License](#license)
-6. [Questions](#questions)
+## How To Use
+1. Clone this repository locally to your computer.
 
-## Installation
-Clone this repository to your computer locally and then run in your terminal.
-<p align="right"> 
+2. If your computer does not have node.js already installed, go to [Nodejs.org](https://nodejs.org/en/download/), and download the node.js v16.18.0 installer for your platform.
 
-## Usage
-Use the command 'npm i' and then 'node index.js'
-<p align="right">
+3. The next step is to download [Inquirer](https://www.npmjs.com/package/inquirer). To do this, in the in the command line run:  `npm i` .
 
-## Contributing
-Make a pull request.
-<p align="right">
+4. Once inquirer is installed, in the command line run:  `node index.js` .
 
-## Tests
-Attempt to make a input 'null'
-<p align="right">
+5. The prompts will show, and you will need to enter an answer for each.
 
-## License
-Copyright (c) [Kdrummond528](https://github.com/Kdrummond528). All rights reserved. 
+6. After all the prompts are answered with your inputs, your README.file will be created.
 
-Licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
-<p align="right">
+## Screenshots
+This screenshot shows the process of creating the README.md file in the command line:
+![clscreenshot](./assets/screenshot.png)
 
-## Questions
-Feel free to contact me with any questions.
-- GitHub: [Kdrummond528](https://github.com/Kdrummond528)
-- Email: [k.drummond528@gmail.com](mailto:k.drummond528@gmail.com)
-<p align="right">
+These screenshots show the result:
+![readmescreenshot](./assets/screenshot1.png)
+
+![readmescreenshot2](./assets/screenshot2.png)
+
+## Video Example
+Click the link below to view a video showing a live step-by-step process:
+
+[README Generator Video](https://drive.google.com/file/d/1ImLdAyY16FS7E-Y33kXVJ-ZiYdMSDT9u/view?usp=sharing)
+
